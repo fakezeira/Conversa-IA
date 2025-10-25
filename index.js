@@ -84,7 +84,6 @@ async function conversaContinua() {
             //   EXIBIR A RESPOSTA
             // =========================================================
             console.log("-----------------------------------------");
-            // Agora a IA não é mais a farmacêutica
             console.log(`🤖 IA: ${respostaFinal}`); 
             console.log("-----------------------------------------");
 
